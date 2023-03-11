@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Konstantin</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A passionate backend developer</h3> 
 <img align="right" alt="Coding" width="400" src="https://github.com/KonstantinS343/readme_gif/blob/master/programmer.gif">
 
 # 💫 About Me:
